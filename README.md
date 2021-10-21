@@ -8,6 +8,8 @@
 
 **Welcome to my profile**
 
+![lol](img/Logo.gif)
+
 - 🔭 I’m currently working on my Website 
 - 🌱 I’m currently learning Html, Javascript, Rblx Lua , swift 
 - 👯 I’m looking to collaborate on ...
