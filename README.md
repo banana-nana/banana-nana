@@ -10,6 +10,15 @@
 
 ![lol](img/Logo.gif)
 
+
+![Juarez2010's GitHub stats](https://github-readme-stats.vercel.app/api?username=banana-nana&show_icons=true&theme=radical)
+
+
+<a href="https://github.com/banana-nana?tab=repositories">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=banana-nana&show_icons=true&theme=radical" alt="Used languages"/>
+</a>
+
+
 - 🔭 I’m currently working on my Website 
 - 🌱 I’m currently learning Html, Javascript, Rblx Lua , swift 
 - 👯 I’m looking to collaborate on ...
