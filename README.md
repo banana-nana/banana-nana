@@ -15,7 +15,7 @@
 
 
 <a href="https://github.com/banana-nana?tab=repositories">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=banana-nana&show_icons=true&theme=radical" alt="Used languages"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anana-nana&show_icons=true&theme=radical" alt="Used languages"/>
 </a>
 
 
